@@ -55,6 +55,8 @@ import com.facebook.react.bridge.UiThreadUtil;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.DeviceEventManagerModule;
 
+
+import java.lang.reflect.Method;
 import java.lang.Runnable;
 import java.io.File;
 import java.util.Collections;
